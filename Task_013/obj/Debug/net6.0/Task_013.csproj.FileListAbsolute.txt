@@ -1,0 +1,15 @@
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\Task_013.csproj.AssemblyReference.cache
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\Task_013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\Task_013.AssemblyInfoInputs.cache
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\Task_013.AssemblyInfo.cs
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\Task_013.csproj.CoreCompileInputs.cache
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\bin\Debug\net6.0\Task_013.exe
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\bin\Debug\net6.0\Task_013.deps.json
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\bin\Debug\net6.0\Task_013.runtimeconfig.json
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\bin\Debug\net6.0\Task_013.dll
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\bin\Debug\net6.0\Task_013.pdb
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\Task_013.dll
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\refint\Task_013.dll
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\Task_013.pdb
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\Task_013.genruntimeconfig.cache
+C:\Users\Drbec\Desktop\GeekBreans Smirnova\С Sharp\Практика\ДЗ К Семинарам\Семинар 2 ДЗ\Task 2\Task_013\obj\Debug\net6.0\ref\Task_013.dll
